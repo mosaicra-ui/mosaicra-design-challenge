@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Shadows](./img/neubrutalism-landing-page.png)
+![Shadows](./00-neubrutalism-landing-page/img/neubrutalism-landing-page.png)
 </div>
 
 ## What is Brutalism?
@@ -27,7 +27,7 @@ Unlike conventional soft shadows, Neo-Brutalist shadows are full-color, unblurre
 
 <div align="center">
 
-![Shadows](./img/shadows.png)
+![Shadows](./00-neubrutalism-landing-page/img/shadows.png)
 </div>
 
 ### 2. Separators
@@ -36,7 +36,7 @@ Whether thick or thin, separators help to organize the layout. Despite the use o
 
 <div align="center">
 
-![Separators](./img/seperators.png)
+![Separators](./00-neubrutalism-landing-page/img/seperators.png)
 </div>
 
 ### 3. Typography
@@ -45,7 +45,7 @@ Bold, large typography has a significant visual impact. It can be both functiona
 
 <div align="center">
 
-![Typography](./img/typography.png)
+![Typography](./00-neubrutalism-landing-page/img/typography.png)
 </div>
 
 ### 4. Colors
@@ -54,7 +54,7 @@ While vivid, contrasting colors may raise concerns about readability or accessib
 
 <div align="center">
 
-![Colors](./img/color.png)
+![Colors](./00-neubrutalism-landing-page/img/color.png)
 </div>
 
 ### 5. Asymmetric Geometric Shapes
@@ -63,7 +63,7 @@ Challenging traditional design, asymmetric shapes like circles, triangles, rhomb
 
 <div align="center">
 
-![Landing Page](./img/landing-page.png)
+![Landing Page](./00-neubrutalism-landing-page/img/landing-page.png)
 </div>
 
 ## Resources
@@ -74,5 +74,5 @@ Challenging traditional design, asymmetric shapes like circles, triangles, rhomb
 
 ## Asset Images
 
-| ![Pic-0](./assets/Pic-0.jpg) | ![Pic-1](./assets/Pic-1.png) | ![Pic-2](./assets/Pic-2.png) | ![Pic-3](./assets/Pic-3.png) |
-| ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| ![Pic-0](./00-neubrutalism-landing-page/assets/Pic-0.jpg) | ![Pic-1](./00-neubrutalism-landing-page/assets/Pic-1.png) | ![Pic-2](./00-neubrutalism-landing-page/assets/Pic-2.png) | ![Pic-3](./00-neubrutalism-landing-page/assets/Pic-3.png) |
+| --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
