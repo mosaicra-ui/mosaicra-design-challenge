@@ -9,7 +9,9 @@ Welcome to the **Mosaicra Design Challenge**! This challenge invites designers a
 | **1**   | **File Uploader**                  | ![Day 1: File Uploader](./day1/00-files-uploader/day1-files-uploader.png)                                       | [Download Figma File](./day1/00-files-uploader/files-uploader.fig) |
 | **2**   | **Crypto Wallet**                  | ![Day 2: Crypto Wallet](./day2/00-crypto-wallet/day2-crypto-wallet-post.png)                                    | [(NOT YET UPLOADED)](./day2/)                                      |
 | **3**   | **Contact Page**                   | ![Day 3: Contact Page](./day3/00-contact-page/day3-contact-page.png)                                            | [Download Figma File](./day3/00-contact-page/contact-page.fig)     |
-| **4**   | **Neubrutalism - Landing Page UI** | ![Day 3: Neubrutalism - Landing Page UI](./day4/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png) | [(NOT YET UPLOADED)](./day4/)                                      |
+| **4**   | **Neubrutalism - Landing Page UI** | ![Day 4: Neubrutalism - Landing Page UI](./day4/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png) | [(NOT YET UPLOADED)](./day4/)                                      |
+| **5**   | **FigChallenge - Landing Page**    | ![Day 5: FigChallenge - Landing Page](./day5/figchallenge-landing-page.png)                                     | [(NOT YET UPLOADED)](./day5/)                                      |
+| **6**   | **Social Media Ads**               | ![Day 66: Social Media Ads](./day6/social-media-ads.png)                                               | [(NOT YET UPLOADED)](./day6/)                                      |
 
 ## Participation Guidelines
 
