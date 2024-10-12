@@ -4,14 +4,15 @@ Welcome to the **Mosaicra Design Challenge**! This challenge invites designers a
 
 ## Daily Challenges Overview
 
-| **Day** | **Challenge**                      | **Preview**                                                                                                      | **Figma File**                                                      |
-| ------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **1**   | **File Uploader**                  | ![Day 1: File Uploader](./day01/00-files-uploader/day1-files-uploader.png)                                       | [Download Figma File](./day01/00-files-uploader/files-uploader.fig) |
-| **2**   | **Crypto Wallet**                  | ![Day 2: Crypto Wallet](./day02/00-crypto-wallet/day2-crypto-wallet-post.png)                                    | [(NOT YET UPLOADED)](./day02/)                                      |
-| **3**   | **Contact Page**                   | ![Day 3: Contact Page](./day03/00-contact-page/day3-contact-page.png)                                            | [Download Figma File](./day03/00-contact-page/contact-page.fig)     |
-| **4**   | **Neubrutalism - Landing Page UI** | ![Day 4: Neubrutalism - Landing Page UI](./day04/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png) | [(NOT YET UPLOADED)](./day04/)                                      |
-| **5**   | **FigChallenge - Landing Page**    | ![Day 5: FigChallenge - Landing Page](./day05/figchallenge-landing-page.png)                                     | [(NOT YET UPLOADED)](./day05/)                                      |
-| **6**   | **Social Media Ads**               | ![Day 66: Social Media Ads](./day06/social-media-ads.png)                                                        | [(NOT YET UPLOADED)](./day06/)                                      |
+| **Day** | **Challenge**                      | **Preview**                                                                                                       | **Figma File**                                                      |
+| ------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **01**  | **File Uploader**                  | ![Day 01: File Uploader](./day01/00-files-uploader/day1-files-uploader.png)                                       | [Download Figma File](./day01/00-files-uploader/files-uploader.fig) |
+| **02**  | **Crypto Wallet**                  | ![Day 02: Crypto Wallet](./day02/00-crypto-wallet/day2-crypto-wallet-post.png)                                    | [(NOT YET UPLOADED)](./day02/)                                      |
+| **03**  | **Contact Page**                   | ![Day 03: Contact Page](./day03/00-contact-page/day3-contact-page.png)                                            | [Download Figma File](./day03/00-contact-page/contact-page.fig)     |
+| **04**  | **Neubrutalism - Landing Page UI** | ![Day 04: Neubrutalism - Landing Page UI](./day04/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png) | [(NOT YET UPLOADED)](./day04/)                                      |
+| **05**  | **FigChallenge - Landing Page**    | ![Day 05: FigChallenge - Landing Page](./day05/figchallenge-landing-page.png)                                     | [(NOT YET UPLOADED)](./day05/)                                      |
+| **06**  | **Social Media Ads**               | ![Day 06: Social Media Ads](./day06/social-media-ads.png)                                                         | [(NOT YET UPLOADED)](./day06/)                                      |
+| **0**   | **Public API Landing Page**        | ![Day 07: Public API Landing Page](./day07/public-api-landing-page.png)                                           | [(NOT YET UPLOADED)](./day07/)                                      |
 
 ## Participation Guidelines
 
