@@ -4,15 +4,19 @@ Welcome to the **Mosaicra Design Challenge**! This challenge invites designers a
 
 ## Daily Challenges Overview
 
-| **Day** | **Challenge**                      | **Preview**                                                                                                       | **Figma File**                                                      |
-| ------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **01**  | **File Uploader**                  | ![Day 01: File Uploader](./day01/00-files-uploader/day1-files-uploader.png)                                       | [Download Figma File](./day01/00-files-uploader/files-uploader.fig) |
-| **02**  | **Crypto Wallet**                  | ![Day 02: Crypto Wallet](./day02/00-crypto-wallet/day2-crypto-wallet-post.png)                                    | [(NOT YET UPLOADED)](./day02/)                                      |
-| **03**  | **Contact Page**                   | ![Day 03: Contact Page](./day03/00-contact-page/day3-contact-page.png)                                            | [Download Figma File](./day03/00-contact-page/contact-page.fig)     |
-| **04**  | **Neubrutalism - Landing Page UI** | ![Day 04: Neubrutalism - Landing Page UI](./day04/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png) | [(NOT YET UPLOADED)](./day04/)                                      |
-| **05**  | **FigChallenge - Landing Page**    | ![Day 05: FigChallenge - Landing Page](./day05/figchallenge-landing-page.png)                                     | [(NOT YET UPLOADED)](./day05/)                                      |
-| **06**  | **Social Media Ads**               | ![Day 06: Social Media Ads](./day06/social-media-ads.png)                                                         | [(NOT YET UPLOADED)](./day06/)                                      |
-| **0**   | **Public API Landing Page**        | ![Day 07: Public API Landing Page](./day07/public-api-landing-page.png)                                           | [(NOT YET UPLOADED)](./day07/)                                      |
+| **Day** | **Challenge**                      | **Preview**                                                                                                                            | **Figma File**                                                      |
+| ------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **01**  | **File Uploader**                  | ![Day 01: File Uploader](./day01--07-10-2024/00-files-uploader/day1-files-uploader.png)                                                | [Download Figma File](./day01/00-files-uploader/files-uploader.fig) |
+| **02**  | **Crypto Wallet**                  | ![Day 02: Crypto Wallet](./day02--08-10-2024/00-crypto-wallet/day2-crypto-wallet-post.png)                                             | [(NOT UPLOADED)](./day02/)                                          |
+| **03**  | **Contact Page**                   | ![Day 03: Contact Page](./day03--09-10-2024/00-contact-page/day3-contact-page.png)                                                     | [Download Figma File](./day03/00-contact-page/contact-page.fig)     |
+| **04**  | **Neubrutalism - Landing Page UI** | ![Day 04: Neubrutalism - Landing Page UI](./day04--10-10-2024/00-neubrutalism-landing-page/img/neubrutalism-landing-page.png)          | [(NOT UPLOADED)](./day04--10-10-2024/)                              |
+| **05**  | **FigChallenge - Landing Page**    | ![Day 05: FigChallenge - Landing Page](./day05--11-10-2024/figchallenge-landing-page.png)                                              | [(NOT UPLOADED)](./day05--11-10-2024/)                              |
+| **06**  | **Social Media Ads**               | ![Day 06: Social Media Ads](./day06--12-10-2024/social-media-ads.png)                                                                  | [(NOT UPLOADED)](./day06--12-10-2024/)                              |
+| **07**  | **Public API Landing Page**        | ![Day 07: Public API Landing Page](./day07--13-10-2024/public-api-landing-page.png)                                                    | [(NOT UPLOADED)](./day07--13-10-2024/)                              |
+| **08**  | **Glowing Purple Cards**           | ![Day 08: Glowing Purple Cards](./day08--14-10-2024/glowing-purple-cards.jpg)                                                          | [(NOT UPLOADED)](./day08--14-10-2024/)                              |
+| **09**  | **Brand Identity Card**            | ![Day 09: Brand Identity Card](./day09--15-10-2024/brand-identity-card.jpg)                                                            | [(NOT UPLOADED)](./day09--15-10-2024/)                              |
+| **10**  | **MC Stars Landing Page**          | ![Day 10: MC Stars Landing Page](./day10--16-10-2024/00-mc-stars-landing-page-concept-design/mc-stars-landing-page-concept-design.jpg) | [(NOT UPLOADED)](./day10--16-10-2024/)                              |
+| **11**  | **KREA-ai Pricing Page**           | ![Day 11: KREA-ai Pricing Page](./day11--17-10-2024/krea-ai-pricing-page.jpg)                                                          | [(NOT UPLOADED)](./day11--17-10-2024/)                              |
 
 ## Participation Guidelines
 
